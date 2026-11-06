@@ -28,3 +28,4 @@ Abre `index.html` en un navegador. Para publicarlo, crea un repositorio público
 - Puedes agregar proyectos reales realizados en clase, con autorización para compartirlos.
 - Mantén privada cualquier clave, contraseña, dato personal o información de terceros.
 - Imprime la hoja de vida desde el navegador y selecciona “Guardar como PDF”.
+Portafolio publicado en GitHub Pages.
